@@ -110,7 +110,7 @@ certifications:
         - name: Awards 
           start:  
           end:   
-          organization: 
+          organization: Awards during college
           credentialid: 
           credentialurl: 
           credentialname: 
@@ -129,7 +129,7 @@ certifications:
         - name: Certificates
           start: 
           end:
-          organization: 
+          organization: Certificates during college
           credentialid: 
           credentialurl: 
           credentialname: 
