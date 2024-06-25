@@ -33,10 +33,10 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Chinese
           level: Native
 
-        - idiom: Chinese
+        - idiom: English
           level: Professional
 
 
