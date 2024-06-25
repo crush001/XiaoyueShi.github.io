@@ -149,16 +149,22 @@ publications:
         link: 
         authors: 
         conference: 
-        
+        details: |
+            In terms of professional knowledge, I have a solid theoretical
+            foundation, rich practical experience, skilled professional skills
+            and good logical thinking ability.
       - title: Professional knowledge
         link: 
         authors: 
         conference:   
-            
-      - title: 
-        link: 
-        authors: 
-        conference: 
+        details: |
+            In character, I am a positive and optimistic person, 
+            always with a positive attitude to face the challenges 
+            and difficulties in life. I am good with people and able 
+            to build deep friendships and trusting relationships with
+            others. I respect others, listen well to others' opinions 
+            and ideas, and am willing to share my knowledge and experience 
+            with others.  
 
 skills:
     title: Skills &amp; Proficiency
