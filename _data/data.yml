@@ -72,11 +72,12 @@ education:
         university: Qilu University of Technology
         time: 2022 - Present
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          College is an important growth stage in my life. 
+          I experienced the process from immature to mature, 
+          and learned how to face difficulties and challenges,
+          how to think independently and solve problems. I firmly 
+          believe that these experiences will provide a solid 
+          foundation for my future career and life path.
             
 
 experiences:
@@ -145,7 +146,7 @@ skills:
 
     toolset:
       - name: Python & C++ & JAVA      
-        level: 98%
+        level: 90%
 
       - name: HTML & CSS
         level: 80%
