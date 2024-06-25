@@ -105,31 +105,39 @@ experiences:
             
       
 certifications:
-      title: Awards 
-      intro: |
-    papers:
-      - title: Qilu University of Technology "three good students" honorary title
-        link: 
-        authors: 
-        conference: 
-      - title: Qilu University of Technology "three good student model" honorary title
-        link: 
-        authors: 
-        conference: 
-      - title: Honorary title of "Excellent Communist Youth League Member" of Qilu University of Technology
-        link: 
-        authors: 
-        conference: 
-      - title: Second prize of Shandong University student mathematics Competition
-        link: 
-        authors: 
-        conference:
-        - title: Blue Bridge Cup National Software and Information Technology Professionals 
-            Competition Shandong region C/C++ programming University Group B) prize
-        link: 
-        authors: 
-        conference:
-        
+      title: Honors 
+      list:
+        - name: Awards 
+          start:  
+          end:   
+          organization: 
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: |
+            Qilu University of Technology "three good students" honorary title.
+            
+            Qilu University of Technology "three good student model" honorary title.
+            
+            Honorary title of "Excellent Communist Youth League Member" of Qilu University of Technology.
+            
+            Second prize of Shandong University student mathematics Competition.
+            
+            Blue Bridge Cup National Software and Information Technology Professionals 
+            Competition Shandong region C/C++ programming University Group B) prize.
+            
+        - name: Certificates
+          start: 
+          end:
+          organization: 
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: |
+            Certificate of English Band 4.
+            
+            Putonghua Level 2 A certificate.
+
 oss:
     title: OSS Contributions
     intro: >
