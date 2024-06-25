@@ -150,11 +150,19 @@ publications:
         link: "#"
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
+          details: |
+            Certificate of English Band 4.
+            
+            Putonghua Level 2 A certificate.
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+          details: |
+            Certificate of English Band 4.
+            
+            Putonghua Level 2 A certificate.
 
       - title: A syntax directed compiler for Algol 60
         link: "#"
