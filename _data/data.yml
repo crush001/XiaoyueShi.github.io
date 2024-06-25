@@ -125,6 +125,7 @@ certifications:
             
             Blue Bridge Cup National Software and Information Technology Professionals 
             Competition Shandong region C/C++ programming University Group B) prize.
+
             
         - name: Certificates
           start: 
@@ -138,46 +139,38 @@ certifications:
             
             Putonghua Level 2 A certificate.
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Self-evaluation
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      Here is my assessment of myself.
+    papers:  
+      - title: Character 
+        link: 
+        authors: 
+        conference: 
+        details: |
+            In character, I am a positive and optimistic person, 
+            always with a positive attitude to face the challenges 
+            and difficulties in life. I am good with people and able 
+            to build deep friendships and trusting relationships with
+            others. I respect others, listen well to others' opinions 
+            and ideas, and am willing to share my knowledge and experience 
+            with others.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Professional knowledge
+        link: 
+        authors: 
+        conference: 
+        details: |
+            In terms of professional knowledge, I have a solid theoretical
+            foundation, rich practical experience, skilled professional skills
+            and good logical thinking ability.  
+            
+      - title: 
+        link: 
+        authors: 
+        conference: 
 
 skills:
     title: Skills &amp; Proficiency
