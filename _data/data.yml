@@ -88,7 +88,7 @@ education:
             
 
 experiences:
-    title: Educational Experiences
+    title: Experiences
     info:
       - role: High School
         time: 2019 - 2022
@@ -101,17 +101,16 @@ experiences:
           and growth. This experience made me more determined to 
           embark on my own path, and also made me full of confidence 
           and expectations for the future.
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: University
+        time: 2019 - 2022
+        company: Qilu University of Technology
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            
       
 certifications:
       title: Certifications
