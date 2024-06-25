@@ -66,7 +66,19 @@ education:
     info:
       - degree: High School 
         university: 
-        time: 2019 - 2032
+        time: 2019 - 2022
+        details: |
+          High school was a fulfilling and challenging time for me.
+          During that time, I continuously explored my potential and
+          learned how to make progress together with my classmates. 
+          I not only learned knowledge, but also gained friendship 
+          and growth. This experience made me more determined to 
+          embark on my own path, and also made me full of confidence 
+          and expectations for the future.
+            
+      - degree: University
+        university: Qilu University of Technology
+        time: 2022 - Present
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -74,17 +86,6 @@ education:
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
           pretium quis, sem.
             
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
 
 experiences:
     title: Experiences
