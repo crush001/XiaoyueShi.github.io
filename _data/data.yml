@@ -150,7 +150,7 @@ publications:
         link: "#"
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
-          details: |
+          details: 
             Certificate of English Band 4.
             
             Putonghua Level 2 A certificate.
@@ -159,7 +159,7 @@ publications:
         link: "#"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-          details: |
+          details: 
             Certificate of English Band 4.
             
             Putonghua Level 2 A certificate.
