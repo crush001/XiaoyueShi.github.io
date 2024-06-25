@@ -52,8 +52,8 @@ sidebar:
         - item: Delicacies
           link:
 
-career-profile:
-    title: Career Profile
+career-profile:  
+    title: Educational Experience
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -65,7 +65,7 @@ education:
     title: Education
     info:
       - degree: High School 
-        university: 
+        university: Zhao County Middle School in Hebei Province
         time: 2019 - 2022
         details: |
           High school was a fulfilling and challenging time for me.
@@ -88,45 +88,30 @@ education:
             
 
 experiences:
-    title: Experiences
+    title: Educational Experiences 
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: High School
+        time: 2019 - 2022
+        company: Zhao County Middle School in Hebei Province
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          High school was a fulfilling and challenging time for me.
+          During that time, I continuously explored my potential and
+          learned how to make progress together with my classmates. 
+          I not only learned knowledge, but also gained friendship 
+          and growth. This experience made me more determined to 
+          embark on my own path, and also made me full of confidence 
+          and expectations for the future.
+          
+      - role: University
+        time: 2022 - Present
+        company: Qilu University of Technology
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            
 
 certifications:
       title: Certifications
